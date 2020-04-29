@@ -8,7 +8,7 @@
     3) Create ROC and PRC curves for both cross-validation and test set results
     
 #### Folder Structure
-    - data_plit/
+    - data_split/
         - main.py
     - braf/
         - algorithms/
